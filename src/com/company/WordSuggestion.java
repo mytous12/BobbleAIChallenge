@@ -1,9 +1,5 @@
 package com.company;
 
-//run the program with command
-//javac WordSuggestion.java
-//java WordSuggestion inputFile.csv wordToCheck
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
